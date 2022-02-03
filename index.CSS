@@ -1,0 +1,25 @@
+.container{
+    border: 5px solid #ffcc5c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.container2{
+    display: flex;
+    border-style: dashed;
+    border-color: slateblue;
+    border-width: 10px;
+    justify-content: center;
+}
+
+.middle{
+    display: flex;
+    background-color: sandybrown;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+}

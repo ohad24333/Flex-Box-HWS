@@ -1,0 +1,14 @@
+.container > div{
+    text-align: center;   
+    font-size: 2em;
+    height: 200px;
+    flex-wrap: wrap;
+}
+
+.container > div:nth-child(1){
+    background-color: green;
+}
+
+.container > div:nth-child(2){
+    background-color: red;
+}
